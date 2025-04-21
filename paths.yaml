@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/varawat/varawat_dfw/:/
+ - /content/varawat/varawat_dfw/metadata.json:/metadata.json
+ - /content/varawat/varawat_dfw/redirects.json:/redirects.json
